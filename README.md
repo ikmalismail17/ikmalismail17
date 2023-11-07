@@ -1,7 +1,7 @@
 Hi there 👋
-- My name is Ikmal Ismail
-- I'm currenctly student of Computer Science doing degree right now
+- My name is Muhammad Ikmal Bin Ismail
 - I'm 22 years old this year
+- I'm currenctly student of Computer Science doing degree right now
 
 - 🌱 I’m currently learning MERN stack for my final year project
 - 💬 Ask me about anything
