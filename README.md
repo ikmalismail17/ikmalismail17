@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ikmal Bin Ismail</h1>
-<h3 align="center">I'm final year student of Computer Science doing degree right now</h3>
-
-
+<h2 align="center">I'm final year student for Bachelor of Computer Science(Hons.)</h2>
 
 - 🌱 I’m currently learning **MERN stack for my final year project**
+  
+- 👨‍💻 I'm more into javascript
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **You can contact me from any social media on my profile**
+- 📫 How to reach me: **You can contact me from any social media on my profile (Preferred fb)**
 
 - ⚡ Fun fact **Struggle is real and the silent is gold**
 
