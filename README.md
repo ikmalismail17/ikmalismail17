@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me: **You can contact me from any social media on my profile (Preferred fb)**
+- 📫 How to reach me: **You can contact me from any social media on my profile**
 
 - ⚡ Fun fact **Struggle is real and the silent is gold**
 
